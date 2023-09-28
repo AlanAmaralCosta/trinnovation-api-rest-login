@@ -1,0 +1,480 @@
+[
+    {
+        "label": "app",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "session",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "hashlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "hashlib",
+        "description": "hashlib",
+        "detail": "hashlib",
+        "documentation": {}
+    },
+    {
+        "label": "base64",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "base64",
+        "description": "base64",
+        "detail": "base64",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "env",
+        "importPath": "envs",
+        "description": "envs",
+        "isExtraImport": true,
+        "detail": "envs",
+        "documentation": {}
+    },
+    {
+        "label": "env",
+        "importPath": "envs",
+        "description": "envs",
+        "isExtraImport": true,
+        "detail": "envs",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Usuario",
+        "importPath": "models.usuario",
+        "description": "models.usuario",
+        "isExtraImport": true,
+        "detail": "models.usuario",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAPI",
+        "importPath": "flask_openapi3",
+        "description": "flask_openapi3",
+        "isExtraImport": true,
+        "detail": "flask_openapi3",
+        "documentation": {}
+    },
+    {
+        "label": "Info",
+        "importPath": "flask_openapi3",
+        "description": "flask_openapi3",
+        "isExtraImport": true,
+        "detail": "flask_openapi3",
+        "documentation": {}
+    },
+    {
+        "label": "Tag",
+        "importPath": "flask_openapi3",
+        "description": "flask_openapi3",
+        "isExtraImport": true,
+        "detail": "flask_openapi3",
+        "documentation": {}
+    },
+    {
+        "label": "unquote",
+        "importPath": "urllib.parse",
+        "description": "urllib.parse",
+        "isExtraImport": true,
+        "detail": "urllib.parse",
+        "documentation": {}
+    },
+    {
+        "label": "pyrebase",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pyrebase",
+        "description": "pyrebase",
+        "detail": "pyrebase",
+        "documentation": {}
+    },
+    {
+        "label": "Usuario",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "importPath": "logger",
+        "description": "logger",
+        "isExtraImport": true,
+        "detail": "logger",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "schemas",
+        "description": "schemas",
+        "isExtraImport": true,
+        "detail": "schemas",
+        "documentation": {}
+    },
+    {
+        "label": "CORS",
+        "importPath": "flask_cors",
+        "description": "flask_cors",
+        "isExtraImport": true,
+        "detail": "flask_cors",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate_with_key",
+        "importPath": "middleware",
+        "description": "middleware",
+        "isExtraImport": true,
+        "detail": "middleware",
+        "documentation": {}
+    },
+    {
+        "label": "dictConfig",
+        "importPath": "logging.config",
+        "description": "logging.config",
+        "isExtraImport": true,
+        "detail": "logging.config",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "generate_key_from_password",
+        "kind": 2,
+        "importPath": "middleware.auth_middleware",
+        "description": "middleware.auth_middleware",
+        "peekOfCode": "def generate_key_from_password(password):\n    hashed_password = hashlib.sha256(password.encode()).digest()\n    key = base64.b64encode(hashed_password).decode()\n    return key\n# Middleware para autenticar com a chave recebida no header\n@app.before_request\ndef authenticate_with_key():\n    key_received = request.headers.get(\"X-Secret-Key\")\n    # Gere a chave a partir da mesma palavra-chave no backend\n    expected_key = generate_key_from_password(SECRET_KEY_BACKEND)",
+        "detail": "middleware.auth_middleware",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate_with_key",
+        "kind": 2,
+        "importPath": "middleware.auth_middleware",
+        "description": "middleware.auth_middleware",
+        "peekOfCode": "def authenticate_with_key():\n    key_received = request.headers.get(\"X-Secret-Key\")\n    # Gere a chave a partir da mesma palavra-chave no backend\n    expected_key = generate_key_from_password(SECRET_KEY_BACKEND)\n    # Compare a chave recebida com a chave esperada\n    if key_received != expected_key:\n        # Chave inválida, retorne uma resposta de erro (por exemplo, 401 Unauthorized)\n        return {\"message\": \"Chave de autenticação inválida\"}, 401",
+        "detail": "middleware.auth_middleware",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY_BACKEND",
+        "kind": 5,
+        "importPath": "middleware.auth_middleware",
+        "description": "middleware.auth_middleware",
+        "peekOfCode": "SECRET_KEY_BACKEND = env('SECRET_WORD')\npassword = SECRET_KEY_BACKEND\n# Gerar o hash com base na palavra secreta para comparar com o hash recebido\ndef generate_key_from_password(password):\n    hashed_password = hashlib.sha256(password.encode()).digest()\n    key = base64.b64encode(hashed_password).decode()\n    return key\n# Middleware para autenticar com a chave recebida no header\n@app.before_request\ndef authenticate_with_key():",
+        "detail": "middleware.auth_middleware",
+        "documentation": {}
+    },
+    {
+        "label": "password",
+        "kind": 5,
+        "importPath": "middleware.auth_middleware",
+        "description": "middleware.auth_middleware",
+        "peekOfCode": "password = SECRET_KEY_BACKEND\n# Gerar o hash com base na palavra secreta para comparar com o hash recebido\ndef generate_key_from_password(password):\n    hashed_password = hashlib.sha256(password.encode()).digest()\n    key = base64.b64encode(hashed_password).decode()\n    return key\n# Middleware para autenticar com a chave recebida no header\n@app.before_request\ndef authenticate_with_key():\n    key_received = request.headers.get(\"X-Secret-Key\")",
+        "detail": "middleware.auth_middleware",
+        "documentation": {}
+    },
+    {
+        "label": "Usuario",
+        "kind": 6,
+        "importPath": "models.usuario",
+        "description": "models.usuario",
+        "peekOfCode": "class Usuario():\n    def __init__(self, email, password):\n        \"\"\"\n        Cria um Usuario\n        Arguments:\n            email: email do Usuario.\n            password: Senha atual do Usuario\n        \"\"\"\n        self.email = email\n        self.password = password",
+        "detail": "models.usuario",
+        "documentation": {}
+    },
+    {
+        "label": "ErrorSchema",
+        "kind": 6,
+        "importPath": "schemas.error",
+        "description": "schemas.error",
+        "peekOfCode": "class ErrorSchema(BaseModel):\n    \"\"\" Define como uma mensagem de eero será representada\n    \"\"\"\n    mesage: str",
+        "detail": "schemas.error",
+        "documentation": {}
+    },
+    {
+        "label": "UsuarioSchema",
+        "kind": 6,
+        "importPath": "schemas.usuario",
+        "description": "schemas.usuario",
+        "peekOfCode": "class UsuarioSchema(BaseModel):\n    \"\"\" Define como um novo usuário a ser inserido deve ser representado\n    \"\"\"\n    email: str = \"email@email.com.br\"\n    password: str = \"************\"\nclass UsuarioViewSchema(BaseModel):\n    \"\"\" Define como um novo usuário a ser inserido deve ser representado\n    \"\"\"\n    email: str = \"email@email.com.br\"\n    password: str = \"************\"",
+        "detail": "schemas.usuario",
+        "documentation": {}
+    },
+    {
+        "label": "UsuarioViewSchema",
+        "kind": 6,
+        "importPath": "schemas.usuario",
+        "description": "schemas.usuario",
+        "peekOfCode": "class UsuarioViewSchema(BaseModel):\n    \"\"\" Define como um novo usuário a ser inserido deve ser representado\n    \"\"\"\n    email: str = \"email@email.com.br\"\n    password: str = \"************\"",
+        "detail": "schemas.usuario",
+        "documentation": {}
+    },
+    {
+        "label": "configure_session_cookie",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def configure_session_cookie(email_cookie):\n    session['user'] = email_cookie\n    session.permanent = True  # Para definir um cookie permanente\n    session.modified = True   # Para garantir que as alterações sejam salvas\n    # Defina o atributo SameSite como None\n    session['_cookie']['samesite'] = 'None'\n    # Defina o cookie como seguro (secure) para que ele só seja enviado via HTTPS\n    session['_cookie']['secure'] = True\n# Função para validar o token JWT\ndef validate_token():",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "validate_token",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def validate_token():\n    if 'user' in session:\n        email = session['user']\n        print(\"email do user\", email)\n        # Recupere o token JWT do Firebase da sessão do usuário\n        token = session.get('token_firebase')\n        if token:\n            return {\"message\": \"Token válido\", \"token\": token}, 200\n        else:\n            # Token não encontrado na sessão",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def home():\n    \"\"\"Redireciona para /openapi, tela que permite a escolha do estilo de documentação.\n    \"\"\"\n    return redirect('/openapi')\n# Criar um novo usuário no FireBase\n@app.post('/usuario', tags=[usuario_tag], responses={\"200\": UsuarioViewSchema, \"409\": ErrorSchema, \"400\": ErrorSchema})\ndef add_usuario(query: UsuarioSchema):\n    \"\"\"Adiciona um novo Usuario à base de dados\n    Retorna uma representação dos usuarios.\n    \"\"\"",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "add_usuario",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def add_usuario(query: UsuarioSchema):\n    \"\"\"Adiciona um novo Usuario à base de dados\n    Retorna uma representação dos usuarios.\n    \"\"\"\n    email = request.args.get('email')\n    password = request.args.get('password')\n    logger.info(f\"Adicionando usuário: '{email}'\")\n    try:\n        if not email or not password:\n            error_msg = \"Email e Senha Obrigatórios\"",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def login(query: UsuarioSchema):\n    \"\"\"Adiciona um novo Usuario à base de dados\n    Retorna uma representação dos usuarios.\n    \"\"\"\n    email = request.args.get('email')\n    password = request.args.get('password')\n    if 'user' in session:\n        email = session['user']\n        # Verificar se o usuário já está autenticado no Firebase\n        try:",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "validate_token_route",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def validate_token_route():\n    \"\"\"Logout de Usuario ao sistema\n    Retorna uma representação dos usuarios.\n    \"\"\"\n    return validate_token()\n# Fazer Logout no sistema\n@app.post('/logout', tags=[usuario_tag])\ndef logout_usuario():\n    \"\"\"Logout de Usuario ao sistema\n    Retorna uma representação dos usuarios.",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "logout_usuario",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def logout_usuario():\n    \"\"\"Logout de Usuario ao sistema\n    Retorna uma representação dos usuarios.\n    \"\"\"    \n    if 'user' in session:\n        session.pop('user')\n        return redirect('/')\n    else:\n        error_msg = \"O usuário não está logado\"\n        return {\"message\": error_msg}, 401",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "info",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "info = Info(title=\"API Autenticação FireBase\", version=\"1.0.0\")\napp = OpenAPI(__name__, info=info)\nCORS(app)\napp.before_request(authenticate_with_key)\n# Configuração do FireBase\nconfig = {\n    'apiKey': env('API_KEY'),\n    'authDomain': env('AUTH_DOMAIN'),\n    'projectId': env('PROJECT_ID'),\n    'storageBucket': env('STORAGE_BUCKET'),",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "app = OpenAPI(__name__, info=info)\nCORS(app)\napp.before_request(authenticate_with_key)\n# Configuração do FireBase\nconfig = {\n    'apiKey': env('API_KEY'),\n    'authDomain': env('AUTH_DOMAIN'),\n    'projectId': env('PROJECT_ID'),\n    'storageBucket': env('STORAGE_BUCKET'),\n    'messagingSenderId': env('MESSAGING_SENDER_ID'),",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "config = {\n    'apiKey': env('API_KEY'),\n    'authDomain': env('AUTH_DOMAIN'),\n    'projectId': env('PROJECT_ID'),\n    'storageBucket': env('STORAGE_BUCKET'),\n    'messagingSenderId': env('MESSAGING_SENDER_ID'),\n    'appId': env('APP_ID'),\n    'databaseURL': \"\"\n}\nfirebase = pyrebase.initialize_app(config)",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "firebase",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "firebase = pyrebase.initialize_app(config)\nauth = firebase.auth()\napp.secret_key = env('SECRET_KEY')\n# definindo tags\nhome_tag = Tag(name=\"Documentação\", description=\"Seleção de documentação: Swagger, Redoc ou RapiDoc\")\nusuario_tag = Tag(name=\"Usuario\", description=\"Adição, visualização e remoção de usuários no FireBase\")\n# Configuração do Cookie\ndef configure_session_cookie(email_cookie):\n    session['user'] = email_cookie\n    session.permanent = True  # Para definir um cookie permanente",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "auth",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "auth = firebase.auth()\napp.secret_key = env('SECRET_KEY')\n# definindo tags\nhome_tag = Tag(name=\"Documentação\", description=\"Seleção de documentação: Swagger, Redoc ou RapiDoc\")\nusuario_tag = Tag(name=\"Usuario\", description=\"Adição, visualização e remoção de usuários no FireBase\")\n# Configuração do Cookie\ndef configure_session_cookie(email_cookie):\n    session['user'] = email_cookie\n    session.permanent = True  # Para definir um cookie permanente\n    session.modified = True   # Para garantir que as alterações sejam salvas",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "app.secret_key",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "app.secret_key = env('SECRET_KEY')\n# definindo tags\nhome_tag = Tag(name=\"Documentação\", description=\"Seleção de documentação: Swagger, Redoc ou RapiDoc\")\nusuario_tag = Tag(name=\"Usuario\", description=\"Adição, visualização e remoção de usuários no FireBase\")\n# Configuração do Cookie\ndef configure_session_cookie(email_cookie):\n    session['user'] = email_cookie\n    session.permanent = True  # Para definir um cookie permanente\n    session.modified = True   # Para garantir que as alterações sejam salvas\n    # Defina o atributo SameSite como None",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "home_tag",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "home_tag = Tag(name=\"Documentação\", description=\"Seleção de documentação: Swagger, Redoc ou RapiDoc\")\nusuario_tag = Tag(name=\"Usuario\", description=\"Adição, visualização e remoção de usuários no FireBase\")\n# Configuração do Cookie\ndef configure_session_cookie(email_cookie):\n    session['user'] = email_cookie\n    session.permanent = True  # Para definir um cookie permanente\n    session.modified = True   # Para garantir que as alterações sejam salvas\n    # Defina o atributo SameSite como None\n    session['_cookie']['samesite'] = 'None'\n    # Defina o cookie como seguro (secure) para que ele só seja enviado via HTTPS",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "usuario_tag",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "usuario_tag = Tag(name=\"Usuario\", description=\"Adição, visualização e remoção de usuários no FireBase\")\n# Configuração do Cookie\ndef configure_session_cookie(email_cookie):\n    session['user'] = email_cookie\n    session.permanent = True  # Para definir um cookie permanente\n    session.modified = True   # Para garantir que as alterações sejam salvas\n    # Defina o atributo SameSite como None\n    session['_cookie']['samesite'] = 'None'\n    # Defina o cookie como seguro (secure) para que ele só seja enviado via HTTPS\n    session['_cookie']['secure'] = True",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "log_path",
+        "kind": 5,
+        "importPath": "logger",
+        "description": "logger",
+        "peekOfCode": "log_path = \"log/\"\n# Verifica se o diretorio para armexanar os logs não existe\nif not os.path.exists(log_path):\n   # então cria o diretorio\n   os.makedirs(log_path)\ndictConfig({\n    \"version\": 1,\n    \"disable_existing_loggers\": True,\n    \"formatters\": {\n        \"default\": {",
+        "detail": "logger",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "logger",
+        "description": "logger",
+        "peekOfCode": "logger = logging.getLogger(__name__)",
+        "detail": "logger",
+        "documentation": {}
+    }
+]
